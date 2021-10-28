@@ -4,7 +4,7 @@
 #
 Name     : pyroute2.nftables
 Version  : 0.6.5
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/a1/56/a8d220bc52ee9c4b177ec3e1e89317825cca1b768bf9816762548dc07bf2/pyroute2.nftables-0.6.5.tar.gz
 Source0  : https://files.pythonhosted.org/packages/a1/56/a8d220bc52ee9c4b177ec3e1e89317825cca1b768bf9816762548dc07bf2/pyroute2.nftables-0.6.5.tar.gz
 Summary  : Python Netlink library: nftables
